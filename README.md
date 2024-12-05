@@ -1,3 +1,3 @@
 # Bem-vindo ao meu perfil! 👋
 
-🌐 **Meu site:** [[www.seusite.com](https://aularemota12.netlify.app/)]
+🌐 **Meu site:** [[www.meusite.com](https://aularemota12.netlify.app/)]
